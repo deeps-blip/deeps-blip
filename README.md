@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepith A
 
-🎓 Second-year B.Tech Computer Science & Engineering student specializing in **Cybersecurity** at SRMIST Trichy.  
+🎓 Third-year B.Tech Computer Science & Engineering student specializing in **Cybersecurity** at SRMIST Trichy.  
 🔐 Passionate about ethical hacking, malware analysis, system security, and building security-focused applications.  
 💡 I love blending technical knowledge with practical projects to explore real-world cyber threats and countermeasures.
 
@@ -56,8 +56,8 @@
 
 ## 📫 Connect with Me
 
-- ✉️ Email: [deepith2005@gmail.com](mailto:deepith2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/deepith-a](https://www.linkedin.com/in/deepith-a)  
+- ✉️ Email: [deepitharun@gmail.com](mailto:deepitharun@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/deepith-a](https://www.linkedin.com/in/deepith-a-b109321a9/)  
 - 🌐 Portfolio: *Coming Soon*
 
 ---
