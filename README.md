@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepith A
 
-<!--
-**deeps-blip/deeps-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year B.Tech Computer Science & Engineering student specializing in **Cybersecurity** at SRMIST Trichy.  
+🔐 Passionate about ethical hacking, malware analysis, system security, and building security-focused applications.  
+💡 I love blending technical knowledge with practical projects to explore real-world cyber threats and countermeasures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cybersecurity Projects
+
+- **Sentient Antivirus**  
+  An open-source lightweight antivirus tool with real-time memory scanning, behavior-based detection, and file quarantine.  
+  Built using VB.NET with custom modules based on Windows MRT architecture.
+
+- **Red Team vs Blue Team Exercise Game (WIP)**  
+  A strategy card game that simulates real-world cybersecurity attack and defense scenarios with 6-player matches.  
+  Focused on educating and engaging users in InfoSec concepts.
+
+- **Keylogger Projects (Java & Python)**  
+  Developed for academic research and security analysis—understanding how malicious tools operate to better defend against them.
+
+- **pdf-intelli-agent-app**  
+  An AI-based tool that answers questions from PDF files with LLM integration, agent modules, and a smart Master Control Program (MCP).
+
+---
+
+## 💼 Internships & Experience
+
+- **Cyber Threat Management Intern**  
+  Samsung Authorized Service Center (Vasavi Telecommunications)  
+  Worked with the tech support team on diagnostics, threat detection, and basic malware triaging.
+
+- **Palo Alto Certified Entry-Level Technician (PCET)** *(In Progress)*  
+  Learning security operations, firewall configuration, and network defense techniques.
+
+---
+
+## 🧠 Skills & Tools
+
+- **Languages:** Python, C++, Java, VB.NET, Bash  
+- **Frameworks/Tools:** FastAPI, PyQt6, SQLite, Nuitka, Ghidra, Wireshark, Flipper Zero  
+- **Domains:** Malware Analysis, Data Recovery, File System Internals, SIEM Setup, SOC Tools  
+- **OS Environments:** Debian, BlackArch, Windows, Dual-boot configurations
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner** - Paper Presentation at National Engineering College, Tirunelveli  
+  Presented **Sentient**, an open-source malware detection architecture
+
+- 🛡️ **Organizer** - TechSpectRuM CTF  
+  Hosted national-level CTF competitions with participation from SASTRA, Kings, and others.
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Email: [deepith2005@gmail.com](mailto:deepith2005@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/deepith-a](https://www.linkedin.com/in/deepith-a)  
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+🔍 *"Securing the digital world, one byte at a time."*
