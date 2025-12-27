@@ -30,7 +30,7 @@
   Samsung Authorized Service Center (Vasavi Telecommunications)  
   Worked with the tech support team on diagnostics, threat detection, and basic malware triaging.
 
-- **Palo Alto Certified Entry-Level Technician (PCET)** *(In Progress)*  
+- **Palo Alto Certified Entry-Level Technician (PCET)**   
   Learning security operations, firewall configuration, and network defense techniques.
 
 ---
